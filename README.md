@@ -22,23 +22,19 @@ La idea de esta estructura es debido a que puedes ejecutar cada código por sepa
 
 En el ZIP se encuentran diferentes carpetas:
 
-- Data (con los dos archivos necesarios para ejecutar el código principal (**main.py**)
+- Data (con los dos archivos necesarios para ejecutar los diferentes archivos planos)
 
-- Figuras_mapas (con las figuras que se han obtenido de los ejercicios)
-
-- __pychache__
+- Figuras (con las figuras que se han obtenido de los ejercicios)
 
 - **Los diferentes archivos planos (.py), con todo el código**
 
-- Referencias (Documento con todas las referencias empleadas a lo largo del proyecto))
+- Referencias (Documento con todas las referencias empleadas a lo largo de la PEC))
 
 - LICENCIA (Documentación obtenida de referencia [8])
 
 - requierements.txt (con la información de las librerías básicas utilizadas)
 
-**IMPORTANTE REMARCAR QUE EL CÓDIGO QUE EJECUTA TODO DIRECTAMENTE ES EL main.py**
-
-# Procedimiento para ejecutar main.py
+# Procedimiento para EJECUTAR LOS DIFERENTES CODIGOS
 
 1- Descargar y descomprimir la carpeta comprimida con toda la información (VinesManuel_PEC4.zip)
 
