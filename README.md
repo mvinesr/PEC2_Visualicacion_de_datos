@@ -55,7 +55,10 @@ Y finalmente los ficheros:
 **IMPORTANTE**
 
 Si se usa el IDE *Spyder* recuerde modificar el path donde se encuentra el fichero de datos necesario para la creación del gráfico y es posible que se requiera de dos contrabarras para indicar un cambio de carpeta.
-						*"c:\\Users\\mvinesr\\Escritorio\\Priemra_tecnica.csv"*
+						
+Ejemplo:
+
+	*"c:\\Users\\mvinesr\\Escritorio\\Priemra_tecnica.csv"*
 
 
 # OUTPUTS
