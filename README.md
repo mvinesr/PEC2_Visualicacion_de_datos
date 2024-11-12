@@ -69,11 +69,7 @@ Y finalmente los ficheros:
 
 - Por último, el código *tercera_tecnica.py*, permite mostrar en una visualización más avanzada, en concreto, se trata de un *Horizon graph*, el cual permite representar por contientes y en un períodod comprendido entre 2019 y 2023 el gasto edio de cada contiente. Este gráfico que tiene una cobertura temporal más amplia, permite ver nuevamente y de manera indirecta, la influncia que tuvo la pandemia sobre los diferentes contientes. Este gráfico que se establece mediante un gradiente de colores de diferentes intesidades, donde tonos azules indícan valores positivos y tonos rojos, valores negativos, permite ver como en el período de 2020 hasta finales de 2021, todos los contientes sufrieron un ingremento notable en los gástos medios.
 
-Adicionalmente, este gráfico permite ver como continetes más estrictos como puede ser Asia, tienen una recuperación económica más rápida en cmparación con otros que no lo son tantos. Este hecho se puede ver al analizar la dismiución de la tonalidad en en el gradiente de colores.
-
 ![Primra técnica de visualización. **Pie CHart**](Figuras/Horizon_plot.png)
-
-
 
 
 # Copyright y información de Licencias
