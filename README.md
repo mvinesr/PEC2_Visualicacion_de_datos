@@ -56,14 +56,25 @@ Y finalmente los ficheros:
 # OUTPUTS
 **PRIMERA TÉCNICA**
 
-Tras ejecutar el primer codigo llamado *primera_tecnica.py*, se mostrará por el primer gráfico realizado el el cual se concoe como Pie Chart y en el que se muestra en porcentaje, el número de accidentes que han habido en Alcobendas en cada año desde 2020 hasta 2023. Es un gráfico simple peró extremadamente útil que permite observar como con el paso de los años, **existe un incremento en el número de accidentes por tráfico**.
+- Tras ejecutar el primer codigo llamado *primera_tecnica.py*, se mostrará por el primer gráfico realizado el el cual se concoe como Pie Chart y en el que se muestra en porcentaje, el número de accidentes que han habido en Alcobendas en cada año desde 2020 hasta 2023. Es un gráfico simple peró extremadamente útil que permite observar como con el paso de los años, **existe un incremento en el número de accidentes de tráfico**.
 
 
 ![Primra técnica de visualización. **Pie CHart**](Figuras/Pie_chart.png)
 
 
-- ejercicio4_1.png (Con la distribución de las variables permit, handgun y long_gun a lo largo de los años)
-- Los diferentes mapas en formato .html y en formato PNG
+- El segundo código llamado *segunda_tecnica.py*, permite mostrar en un stream plot la evolución en el tiempo de la administraciónd e dosis de vacunas contra la gripe administradas sobre distintas provincias de la región de Castilla y León. Esta visualización permite identificar patrones de vacunación como picos y disminuciones en el número de dosis administradas. En concreto el siguiente gráfico permitiría reflejar indirectamente la influencia que tuvo la pandemia por el COVID-19, epsecialmente en *2021* y en *2022*. Es possible que durante ese período de máximo apogeo del COVID, hubiese una mayor concienciación pública sobre la vacunación en general y en concreto de a  grípe. lo que supondría un incremento notable en las dosis administradas. 
+
+
+![Primra técnica de visualización. **Pie CHart**](Figuras/Stream_plot.png)
+
+- Por último, el código *tercera_tecnica.py*, permite mostrar en una visualización más avanzada, en concreto, se trata de un *Horizon graph*, el cual permite representar por contientes y en un períodod comprendido entre 2019 y 2023 el gasto edio de cada contiente. Este gráfico que tiene una cobertura temporal más amplia, permite ver nuevamente y de manera indirecta, la influncia que tuvo la pandemia sobre los diferentes contientes. Este gráfico que se establece mediante un gradiente de colores de diferentes intesidades, donde tonos azules indícan valores positivos y tonos rojos, valores negativos, permite ver como en el período de 2020 hasta finales de 2021, todos los contientes sufrieron un ingremento notable en los gástos medios.
+
+Adicionalmente, este gráfico permite ver como continetes más estrictos como puede ser Asia, tienen una recuperación económica más rápida en cmparación con otros que no lo son tantos. Este hecho se puede ver al analizar la dismiución de la tonalidad en en el gradiente de colores.
+
+![Primra técnica de visualización. **Pie CHart**](Figuras/Horizon_plot.png)
+
+
+
 
 # Copyright y información de Licencias
 
