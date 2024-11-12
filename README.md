@@ -72,13 +72,24 @@ Y finalmente los ficheros:
 ![Primra técnica de visualización. **Pie CHart**](Figuras/Horizon_plot.png)
 
 
-# Copyright y información de Licencias
+# Copyright, información de los datos y Licencias
 
 - Copyright © 2001-2024 Python Software Foundation.
 
 Consulte la LICENCIA para obtener información sobre el historial de este software.
 
 Esta distribución de Python contiene código de Licencia Pública General (GPL) de GNU.
+
+- Link de descarga de los datos (se encuentra de manera adicional en la Bibliografía):
+  	- https://datos.gob.es/es/catalogo/l01280066-accidentes-de-trafico-en-alcobendas-desde-el-ano-2020
+  	- https://datos.gob.es/es/catalogo/a07002862-vacunacion-frente-a-la-gripe-por-edad-sexo-y-provincia-campana-24-25
+  	- https://datos.gob.es/es/catalogo/ea0010587-distribucion-del-gasto-turistico-y-gasto-medio-diario-realizado-segun-continente-de-destino-gdre-identificador-api-58709
+
+- Licencias de las diferentes fuentes de datos obtenidas:
+
+  	- http://www.opendefinition.org/licenses/odc-by
+  	- https://www.ine.es/aviso_legal
+  	- https://creativecommons.org/licenses/by/4.0/deed.es_ES
 	
 		 
 		 
