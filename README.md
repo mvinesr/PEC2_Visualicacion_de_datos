@@ -14,40 +14,41 @@ del código que se organiza de manera lógica separando por diferentes archivos 
 
 Cada uno de estos archivos planos consta de diferentes líneas de codigo que permiten analizar el conjunto de datos, hacer una primera base de preprocesado y finalmente la obtención del gráfico.
 
-La idea de esta estructura es debido a que puedes ejecutar cada código por separado situándote dentro de la ubicación dónde se encuentran los diferentes archivos y así poder ejecutar el código por separado mediante el comando:
+La idea de esta estructura es debido a que se puede ejecutar el código a través de un IDE como Spyder o cualquier otro entorno que permita la lectura de ficheros planos de python **.py**
 
-	**python3 Ejercicio_1.py**
+# Distribución del proyecto
 
-# Distribución de los archivos
+En el proyecto se encunetran un total de 5 carpetas y dos ficheros *LICENSE* y *README*
 
-En el ZIP se encuentran diferentes carpetas:
+- La primera carpeta se llama *Primera-tecnica*, dentro de ella se ecnontrará tanto el fichero de ejecución del gráfico como la carpeta *data* con el fichero csv de los datos obtenidos.
 
-- Data (con los dos archivos necesarios para ejecutar los diferentes archivos planos)
+- La segunda carpeta se llama *Segunda-tecnica*, dentro de ella se ecnontrará nuevamente el fichero de ejecución del segundo gráfico y la carpeta *data* con los datos necesarios.
 
-- Figuras (con las figuras que se han obtenido de los ejercicios)
+- La tercera carpeta se llama *tercera-tecnica*, en la que se ecnontrará el fichero de ejecución del tercer gráfico y la carpeta *data* con el último dataset obtenido para el proyecto.
 
-- **Los diferentes archivos planos (.py), con todo el código**
+- La cuarta carpeta se llama *Figuras*, en ella se encontrarán en formato **.png** las diferentes visualizaciones obtenidas.
 
-- Referencias (Documento con todas las referencias empleadas a lo largo de la PEC))
+-  La quinta carpeta se llama *Referencias*, en el que se situan todas las referencias empleadas a lo largo de la PEC.
 
-- LICENCIA (Documentación obtenida de referencia [8])
+Y finalmente los ficheros:
 
-- requierements.txt (con la información de las librerías básicas utilizadas)
+- LICENCIA, con la documentación obtenida de referencia
+
+- README, con la infomación necesaria del proyecto
 
 # Procedimiento para EJECUTAR LOS DIFERENTES CODIGOS
 
-1- Descargar y descomprimir la carpeta comprimida con toda la información (VinesManuel_PEC4.zip)
+1- Descargar y descomprimir el proyecto
 
-2- Mediante comandos cd, situarse dentro de la carpeta *VinesManuel_PEC4*
+2- Abrir un IDE como *Spyder* que permita la ejecución de ficheros planos
 
-3- Opcional (crear un entorno virtual para ejecutar el código mediante los comandos):
+3- Opcional (crear un entorno virtual para ejecutar el código mediante los comandos)
 
-	virtualenv venv
-	source venv/bin/activate
+4- Instalar las tres librerías necesarias para la realización de los gráficos:
 
-4- Instalar todas las librerías que se encuentran dentro del fichero *requirements.txt* mediante el comando:
-
-	pip install -r requirements.txt
+	pip install numpy
+ 	pip install pandas
+  	pip install matplotlib.pyplot
 
 5- Finalmente, ejecutar el código principal *main.py* mediante el comando:
 
