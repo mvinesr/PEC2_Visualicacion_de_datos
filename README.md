@@ -76,8 +76,11 @@ Adicionalmente, para ver los porcentajes de cobertura de cada test se emplea el 
 
 # OUTPUTS
 
-Tras ejecutar el código, se mostrará por el terminal el resultado de todas las funciones, se abrirán los mapas en el buscador
-y se obtendrán los siguientes archivos:
+Tras ejecutar el primer codigo llamado *primera_tecnica.py*, se mostrará por el primer gráfico realizado el el cual se concoe como Pie Chart adjuntado a continuación
+
+
+![Primra técnica de visualización. **Pie CHart**](c:\Users\vines\OneDrive\Escritorio\Master Data Science\Visualizacion de datos\PEC2\Figuras\Pie_chat.png)
+
 
 - ejercicio4_1.png (Con la distribución de las variables permit, handgun y long_gun a lo largo de los años)
 - Los diferentes mapas en formato .html y en formato PNG
