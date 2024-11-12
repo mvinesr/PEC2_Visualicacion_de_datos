@@ -50,33 +50,13 @@ Y finalmente los ficheros:
  	pip install pandas
   	pip install matplotlib.pyplot
 
-5- Finalmente, ejecutar el código principal *main.py* mediante el comando:
+5- Finalmente, ejecutar el código principal
 
-	python3 main.py
-
-# Procedimiento para ejecutar los tests y la cobertura
-
-Existen un total de 6 test, uno por cada ejercicio. Estos se ejecutan de la siguiente manera:
-
-	python3 -m unittest test_1.py (para el primer test)
-
-	python3 -m unittest test_2.py (para el segundo test)
-
-	python3 -m unittest test_3.py (para el tercer test)
-
-	python3 -m unittest test_4.py (para el tercer test)
-	
-	python3 -m unittest test_5.py (para el tercer test)
-	
-	python3 -m unittest test_6.py (para el tercer test)
-
-Adicionalmente, para ver los porcentajes de cobertura de cada test se emplea el comando
-
-	coverage run -m pytest -v
 
 # OUTPUTS
+**PRIMERA TÉCNICA**
 
-Tras ejecutar el primer codigo llamado *primera_tecnica.py*, se mostrará por el primer gráfico realizado el el cual se concoe como Pie Chart adjuntado a continuación
+Tras ejecutar el primer codigo llamado *primera_tecnica.py*, se mostrará por el primer gráfico realizado el el cual se concoe como Pie Chart y en el que se muestra en porcentaje, el número de accidentes que han habido en Alcobendas en cada año desde 2020 hasta 2023. Es un gráfico simple peró extremadamente útil que permite observar como con el paso de los años, **existe un incremento en el número de accidentes por tráfico**.
 
 
 ![Primra técnica de visualización. **Pie CHart**](Figuras/Pie_chart.png)
