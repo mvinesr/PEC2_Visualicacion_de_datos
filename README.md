@@ -69,11 +69,14 @@ Ejemplo:
 
 ![Primra técnica de visualización. **Pie CHart**](Figuras/Pie_chart.png)
 
+**SEGUNDA TÉCNICA**
 
 - El segundo código llamado *segunda_tecnica.py*, permite mostrar en un stream plot la evolución en el tiempo de la administraciónd e dosis de vacunas contra la gripe administradas sobre distintas provincias de la región de Castilla y León. Esta visualización permite identificar patrones de vacunación como picos y disminuciones en el número de dosis administradas. En concreto el siguiente gráfico permitiría reflejar indirectamente la influencia que tuvo la pandemia por el COVID-19, epsecialmente en *2021* y en *2022*. Es possible que durante ese período de máximo apogeo del COVID, hubiese una mayor concienciación pública sobre la vacunación en general y en concreto de a  grípe. lo que supondría un incremento notable en las dosis administradas. 
 
 
 ![Primra técnica de visualización. **Pie CHart**](Figuras/Stream_plot.png)
+
+**TERCERA TÉCNICA**
 
 - Por último, el código *tercera_tecnica.py*, permite mostrar en una visualización más avanzada, en concreto, se trata de un *Horizon graph*, el cual permite representar por contientes y en un períodod comprendido entre 2019 y 2023 el gasto edio de cada contiente. Este gráfico que tiene una cobertura temporal más amplia, permite ver nuevamente y de manera indirecta, la influncia que tuvo la pandemia sobre los diferentes contientes. Este gráfico que se establece mediante un gradiente de colores de diferentes intesidades, donde tonos azules indícan valores positivos y tonos rojos, valores negativos, permite ver como en el período de 2020 hasta finales de 2021, todos los contientes sufrieron un ingremento notable en los gástos medios.
 
