@@ -1,4 +1,4 @@
-# PEC2_Visualicacion_de_datos
+# PEC2_Visualización_de_datos
 Repositorio para publicar los diferentes resultados obtenidos a través del análisis de los tres datasets analizados para esta PEC.
 
 La siguiente práctica se basa en la creación de diferentes codigos de Python con el fin de represetnar tres técnicas específicas de visualizaciónd e datos:
